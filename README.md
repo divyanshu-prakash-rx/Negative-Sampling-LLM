@@ -30,6 +30,10 @@ This project extends Dense Passage Retrieval (DPR) by introducing a progressive,
 | **Phase 4** | RAG-Enhanced | FAISS-powered context-aware selection |
 | **Phase 5** | Multilingual | Fine-tuning on 15+ languages |
 
+
+<img width="1644" height="638" alt="image" src="https://github.com/user-attachments/assets/6a570123-b342-4e7a-be51-0cf1f1823b47" />
+
+
 ## Novel Contributions Beyond Base Research
 
 While traditional DPR training relies on **BM25-based negative sampling** that suffers from lexical overlap bias and generates semantically weak negatives, our work introduces **three progressive enhancement techniques**:
